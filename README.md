@@ -1,9 +1,10 @@
 # Arjun Desikan
 
-### Computer Science & Mathematics | Georgia Institute of Technology
 ### Machine Learning | Data Science | AI Engineering | Computational Biology
 
 [Personal Site](https://airjan-airlines.github.io) | [LinkedIn](https://linkedin.com/in/arjun-desikan) | arjundesikan2008 [at] gmail [dot] com
+
+Currently interested in research opportunities.
 
 ---
 
@@ -21,16 +22,17 @@ I build model-driven solutions at the intersection of mathematical theory and ap
 
 ### Active Engineering
 **ForgeQB | Lead Developer**
-- Adaptive-learning desktop application for Quizbowl study using NLP for question clustering and RL-based (DQN/Softmax) recommendation engines.
+- Adaptive-learning desktop application for Quizbowl study using using UMAP, HDBScan, and doc2vec to serve recommendations on 160,000+ unstructured trivia questions.
 - 500+ downloads and 24k+ community engagement views.
 
-**setos.ai | Startup Co-Founder**
+**setos.ai | Lead Developer**
 - Research pathway discovery platform indexing 1M+ papers.
 - Built a content-based recommendation system using Sci-BERT embeddings and recursive "kneedle" algorithms for mastery mapping.
 
 **Skate-Tracker | Lead Developer**
-- Computer vision coaching app utilizing MediaPipe and VLMs for skateboarding trick analysis.
-- Implementing RAG pipelines for technical trick knowledge retrieval.
+- RAG Skateboarding coaching app built on webscraped wiki data.
+- Graph-based trick tracker and visualization.
+- Implementing video analysis utilizing MediaPipe and VLMs.
 
 ---
 
@@ -57,13 +59,13 @@ I build model-driven solutions at the intersection of mathematical theory and ap
 ---
 
 ### In Progress
-- Transitioning ForgeQB to a full-stack PostgreSQL/FastAPI architecture.
-- Expanding MediaPipe pose estimation models for high-dynamic-range trick classification.
-- Developing mathematical frameworks for gene expression dimensionality reduction.
+- Transitioning ForgeQB to a web PostgreSQL/FastAPI architecture.
+- Implementing MediaPipe pose estimation models for video skateboarding coaching.
+- Looking for research opportunities in AI/ML and applied stats.
 
 ---
 
 ### Contact & Collaboration
 - **Ask Me About**: Reinforcement Learning, Bioinformatics, and Quantitative Modeling.
-- **Currently Exploring**: Diffusion models for small-sample genomic data.
 - **Correspondence**: arjundesikan2008 [at] gmail [dot] com
+- **Open to:**: Please reach out regaurding any research or internship opportunities.
