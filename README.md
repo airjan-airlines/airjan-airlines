@@ -2,7 +2,7 @@
 
 ### Machine Learning | Data Science | AI Engineering | Computational Biology
 
-[Personal Site](https://airjan-airlines.github.io) | [LinkedIn](https://linkedin.com/in/arjun-desikan) | arjundesikan2008 [at] gmail [dot] com
+[Personal Site](https://airjan-airlines.github.io) | [LinkedIn](https://www.linkedin.com/in/arjun-builds/) | arjundesikan2008 [at] gmail [dot] com
 
 Currently interested in research opportunities.
 
