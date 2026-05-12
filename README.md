@@ -68,4 +68,4 @@ I build model-driven solutions at the intersection of mathematical theory and ap
 ### Contact & Collaboration
 - **Ask Me About**: Reinforcement Learning, Bioinformatics, and Quantitative Modeling.
 - **Correspondence**: arjundesikan2008 [at] gmail [dot] com
-- **Open to:**: Please reach out regaurding any research or internship opportunities.
+- **Open to:** Please reach out regaurding any research or internship opportunities.
